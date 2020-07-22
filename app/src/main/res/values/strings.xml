@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mytorch</string>
+    <string name="accessibility_service_label">MyTorch</string>
+    <string name="accessibility_service_description">This is for the torch</string>
+</resources>
